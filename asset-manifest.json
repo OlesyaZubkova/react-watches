@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-watches/static/css/main.951dfe6b.css",
+    "main.js": "/react-watches/static/js/main.76f96246.js",
+    "static/js/787.fd2fd66d.chunk.js": "/react-watches/static/js/787.fd2fd66d.chunk.js",
+    "index.html": "/react-watches/index.html",
+    "main.951dfe6b.css.map": "/react-watches/static/css/main.951dfe6b.css.map",
+    "main.76f96246.js.map": "/react-watches/static/js/main.76f96246.js.map",
+    "787.fd2fd66d.chunk.js.map": "/react-watches/static/js/787.fd2fd66d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951dfe6b.css",
+    "static/js/main.76f96246.js"
+  ]
+}
